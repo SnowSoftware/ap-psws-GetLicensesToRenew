@@ -53,5 +53,5 @@ Licenses returned will have the following properties:
 ```
 
 ## Repository
-This script is maintained in the GitHub Repository found [here](https://github.com/SnowSoftware/ap-psws-GetSLMLicenses).  
+This script is maintained in the GitHub Repository found [here](https://github.com/SnowSoftware/ap-psws-GetLicensesToRenew).  
 Please use GitHub issue tracker if you have any issues with the module. 
